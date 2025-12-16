@@ -37,9 +37,9 @@ PrimeShield Insurance has recently faced **profitability challenges** driven by 
 ---
 
 ## Tools & Technologies
-- Tableau (Dashboard development and visualization)  
-- Python (Data preprocessing and feature engineering)  
-- Pandas & NumPy (Data manipulation)  
+- Tableau 
+- Python  
+- Microsoft Excel 
 
 ---
 
